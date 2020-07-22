@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+	<channel>
+	<title>Dood-Pod</title>
+	<link>https://thisyearweconquer.github.io/</link>
+	<language>en-us</language>
+	<atom:link href="https://thisyearweconquer.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+	<copyright>Andrew Torgerson</copyright>
+	<itunes:subtitle>Dood-Pod</itunes:subtitle>
+	<itunes:author>Andrew Torgerson</itunes:author>
+	<itunes:summary>
+	
+	</itunes:summary>
+	<itunes:keywords>sounds</itunes:keywords>
+	<description>
+	
+	</description>
+	<itunes:owner>
+	<itunes:name>Andrew Torgerson</itunes:name>
+	<itunes:email>torge135@gmail.com</itunes:email>
+	</itunes:owner>
+	<itunes:image href="https://thisyearweconquer.github.io/logo.jpg"/>
+	<itunes:category text="Health">
+	<itunes:category text="Self-Help"/>
+	</itunes:category>
+	<itunes:explicit>no</itunes:explicit>
+<item>      
+<author>Andrew Torgerson</author>      
+<itunes:author>Andrew Torgerson</itunes:author>      <title>BG_DIA: Ep 1</title>      
+<pubDate>Wed, 07 Apr 2020 13:00:00 GMT</pubDate>      
+<enclosure url="https://github.com/andrew-torgerson/Dood-Pod/blob/master/mp3s/2020-04-31_BG-DiA_Session1.mp3" type="audio/mpeg" length="34216300" />      
+<itunes:duration>18:21</itunes:duration>      
+<guid isPermaLink="false">https://github.com/andrew-torgerson/Dood-Pod/blob/master/mp3s/2020-04-31_BG-DiA_Session1.mp3</guid>      <itunes:explicit>yes</itunes:explicit>      
+<description>
+Show Notes Here!       
+</description>    
+</item>
+
+</channel></rss>
